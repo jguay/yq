@@ -1,2 +1,2 @@
 # yq
-yq docker image with bash and curl
+yq 2.3.0 docker image with jq, bash and curl
